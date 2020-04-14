@@ -1,110 +1,110 @@
 main,
 header {
-    font-size: 0px;
+  font-size: 0px;
 }
 
 body {
-    font-family: "Playfair Display", "Arial", sans-serif;
-    color: #626262;
-    font-size: 14px;
-    line-height: 24px;
-    margin: 0px;
-    padding: 0px;
+  font-family: "Playfair Display", "Arial", sans-serif;
+  color: #626262;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0px;
+  padding: 0px;
 }
 
 .site-navigation a:hover {
-    color: #03a9f4;
+  color: #03a9f4;
 }
 
 .first-child {
-    margin-right: 118px;
+  margin-right: 118px;
 }
 
 .second-child {
-    margin-right: 100px;
+  margin-right: 100px;
 }
 
 .third-child {
-    margin-right: 92px;
+  margin-right: 92px;
 }
 
 img {
-    width: 420px;
-    height: 278px;
-    display: block;
+  width: 420px;
+  height: 278px;
+  display: block;
 }
 
 .conteiner {
-    width: 902px;
-    margin: 0 auto;
+  width: 902px;
+  margin: 0 auto;
 }
 
-section:nth-child(2n+1) {
-    padding-right: 60px;
+section:nth-child(2n + 1) {
+  padding-right: 60px;
 }
 
 section {
-    display: inline-block;
-    margin: 0px;
-    padding: 0px 0px 132px 0px;
-    width: 420px;
-    font-size: 14px;
+  display: inline-block;
+  margin: 0px;
+  padding: 0px 0px 132px 0px;
+  width: 420px;
+  font-size: 14px;
 }
 
 section:nth-child(5) {
-    padding-bottom: 58px;
+  padding-bottom: 58px;
 }
 
 section:nth-child(6) {
-    padding-bottom: 58px;
+  padding-bottom: 58px;
 }
 
 .page-header li {
-    list-style: none;
-    display: inline-block;
+  list-style: none;
+  display: inline-block;
 }
 
 .site-navigation {
-    margin: 0px 166px;
-    padding: 102px 0px;
+  margin: 0px 166px;
+  padding: 102px 0px;
 }
 
 .site-navigation a {
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #626262;
-    line-height: 17px;
-    display: inline-block;
-    font-size: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #626262;
+  line-height: 17px;
+  display: inline-block;
+  font-size: 14px;
 }
 
 .features-title-more {
-    color: #626262;
-    font-size: 30px;
-    line-height: 36px;
+  color: #626262;
+  font-size: 29px;
+  line-height: 36px;
 }
 
 .features-title {
-    color: #b4ad9e;
-    line-height: 17px;
-    text-transform: uppercase;
-    font-family: "Ubuntu";
+  color: #b4ad9e;
+  line-height: 17px;
+  text-transform: uppercase;
+  font-family: "Ubuntu";
 }
 
 .features-title-more-about {
-    line-height: 24px;
-    color: #626262;
+  line-height: 24px;
+  color: #626262;
 }
 
 .load-more {
-    font-size: 20px;
-    line-height: 24px;
-    color: #626262;
-    width: 163px;
-    height: 60px;
-    background-color: #fff;
-    border: 1px solid #000;
-    padding: 0px;
-    display: inline-block;
-    margin: 0px 358px 70px;
+  font-size: 20px;
+  line-height: 24px;
+  color: #626262;
+  width: 163px;
+  height: 60px;
+  background-color: #fff;
+  border: 1px solid #000;
+  padding: 0px;
+  display: inline-block;
+  margin: 0px 358px 70px;
 }
